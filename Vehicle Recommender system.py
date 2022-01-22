@@ -10,7 +10,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="Abhi0011",
+  passwd="*******",
   database="k19ky",
   use_pure=True
 )
@@ -239,7 +239,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="Abhi0011",
+  passwd="******",
   database="k19ky"
 )
 mycursor = mydb.cursor()
@@ -268,7 +268,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="Abhi0011",
+  passwd="*****",
   database="k19ky"
 )
 mycursor = mydb.cursor()
